@@ -84,7 +84,9 @@ fake-engagement-detector/
 ├── dashboard/
 │   └── app.py
 ├── docs/
-│   └── model_explanation.pdf
+│   ├── model_explanation.md
+│   ├── model_explanation.pdf
+│   └── convert_to_pdf.py
 ├── requirements.txt
 └── README.md
 ```
