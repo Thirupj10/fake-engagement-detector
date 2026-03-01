@@ -1,0 +1,11 @@
+{
+    "avg_posts_per_day": 0.18,
+    "posting_time_std": 0.16,
+    "profile_completeness": 0.13,
+    "followers_following_ratio": 0.11,
+    "engagement_burst_score": 0.1,
+    "unique_words_ratio": 0.09,
+    "night_activity_ratio": 0.09,
+    "avg_comment_length": 0.07,
+    "account_age_days": 0.07
+}
